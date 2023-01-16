@@ -18,7 +18,7 @@ public class UserInfo {
             case "sato"-> 19990523;
             case "yamada"->19990422;
             case "ito"->19990623;
-            default -> 0;
+            default -> 00000000;
         };
     }
 }
