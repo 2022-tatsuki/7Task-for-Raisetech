@@ -18,3 +18,5 @@
 ![スクリーンショット 2023-01-16 21 50 46](https://user-images.githubusercontent.com/119149738/212695265-7a8f7731-f087-44be-abbf-2948c73afb0f.png)
 ![スクリーンショット 2023-01-16 22 25 22](https://user-images.githubusercontent.com/119149738/212695171-fea46447-37e2-4964-9971-9674c5d11f8e.png)
 ![スクリーンショット 2023-01-16 22 25 40](https://user-images.githubusercontent.com/119149738/212695210-5b80296f-ba08-41a3-b75f-5a1c67eb5de2.png)
+<img width="1440" alt="スクリーンショット 2023-01-22 0 29 56" src="https://user-images.githubusercontent.com/119149738/213899289-450400ed-92d1-404f-b49f-3b0761cb680d.png">
+<img width="1440" alt="スクリーンショット 2023-01-22 0 27 43" src="https://user-images.githubusercontent.com/119149738/213899293-8ab9c9f8-c853-4e34-ab9e-38dd468e1f40.png">
